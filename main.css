@@ -64,10 +64,12 @@ body {
 	color: gray;
 }
 .box2 img {
-	margin: left;
 	position: relative;
+	right: 27px;
+	top: 10px;
 }
 .header img {
 	float: left;
 	position: relative;
+	top: 12px;
 }
