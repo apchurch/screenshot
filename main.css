@@ -13,8 +13,8 @@ body {
 	font-size: 20px;
 }
 .header {
-	background-color: black;
-	border: 24px solid black;
+	background-color: #23232B;
+	border: 24px solid #23232B;
 }
 .top-menu {
 	font-size: 18px bold;
@@ -55,4 +55,11 @@ body {
 }
 .btn2 {
 	float: right;
+}
+.form-control {
+	background-color: #3A3A3F;
+}
+.form-group2 a {
+	font-size: 12px;
+	color: gray;
 }
