@@ -33,13 +33,19 @@ body {
 .box2 {
 	border: 1px solid orange;
 	float: right;
-	margin-right: 150px;
+	margin-right: 110px;
+	position: relative;
+	width: 220px;
 }
 .box2 p {
 	font-size: 12px;
+	text-align: right;
 }
 .box3 {
 	float: right;
-	margin-right: 150px;
+	margin-right: 110px;
 	border: 1px solid gray;
+	height: 300px;
+	width: 220px;
+	position: relative;
 }
