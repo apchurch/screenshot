@@ -6,8 +6,10 @@ body {
 	font-size: 30px;
 	height: 250px;
 	width: 800px;
-	margin-left: 150px;
+	margin-left: 110px;
 	text-align: left;
+	position: relative;
+	bottom: 130px;
 }
 .box p {
 	font-size: 20px;
@@ -36,7 +38,8 @@ body {
 	float: right;
 	margin-right: 90px;
 	position: relative;
-	width: 240px;
+	width: 290px;
+	top: -50px;
 }
 .box2 p {
 	font-size: 12px;
@@ -47,8 +50,9 @@ body {
 	margin-right: 90px;
 	border: 1px solid gray;
 	height: 300px;
-	width: 240px;
+	width: 290px;
 	position: relative;
+	top: -30px;
 }
 .form-group2 {
 	width: 200px;
