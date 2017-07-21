@@ -63,3 +63,11 @@ body {
 	font-size: 12px;
 	color: gray;
 }
+.box2 img {
+	margin: left;
+	position: relative;
+}
+.header img {
+	float: left;
+	position: relative;
+}
