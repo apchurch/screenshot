@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+}
+.box {
+	border: 2px dashed gray;
+	font-size: 30px;
+	height: 250px;
+	width: 800px;
+	margin-left: 150px;
+	text-align: left;
+}
+.box p {
+	font-size: 20px;
+}
+.header {
+	background-color: black;
+	border: 24px solid black;
+}
+.top-menu {
+	font-size: 18px bold;
+	color: gray;
+}
+.top-menu a:link {
+	color: white;
+
+}
+.navbar.form {
+	margin-left: 200px;
+}
+.form-group {
+	text-align: center;
+}
+.box2 {
+	border: 1px solid orange;
+	float: right;
+	margin-right: 150px;
+}
+.box2 p {
+	font-size: 12px;
+}
+.box3 {
+	float: right;
+	margin-right: 150px;
+	border: 1px solid gray;
+}
